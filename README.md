@@ -1,18 +1,19 @@
-📌 #**Simple Java Counter with Exception Handling**
-This is a small Java program developed as part of a bootcamp by Bradesco. It prompts the user for two numerical inputs and counts from 1 to the difference of the two chosen numbers. The program includes exception handling to ensure the first number is always smaller than the second.
+# 📌 Simple Java Counter with Exception Handling  
 
-#**Features**
-✔️ Uses Java fundamentals (variables, loops, and conditionals).
-✔️ Accepts user input via Scanner.
-✔️ Implements custom exception handling with ParametrosInvalidosException.
+This is a small Java program developed as part of a bootcamp by **Bradesco**. It prompts the user for two numerical inputs and counts from `1` to the difference of the two chosen numbers. The program includes **exception handling** to ensure the first number is always smaller than the second.  
 
-#**How It Works**
-1️⃣ The program prompts the user for two parameters (the first must be smaller than the second).
-2️⃣ If the first one is smaller, it counts from 1 to (second - first).
-3️⃣ If not, an exception is thrown.
+## 🚀 Features  
+- 🔹 Uses **Java fundamentals** (variables, loops, and conditionals).  
+- 🔹 Accepts **user input** via `Scanner`.  
+- 🔹 Implements **custom exception handling** with `ParametrosInvalidosException`.  
 
-#**Example Execution**
-```bash
+## 🔧 How It Works  
+1️⃣ The program prompts the user for **two parameters** (the first must be smaller than the second).  
+2️⃣ If the first one is **smaller**, it counts from `1` to `(second - first)`.  
+3️⃣ If not, an **exception is thrown**.  
+
+## 💻 Example Execution  
+```
 Digite o primeiro parâmetro: 3
 Digite o segundo parâmetro: 7
 Contando 1
@@ -20,18 +21,15 @@ Contando 2
 Contando 3
 Contando 4
 ```
-#**nvalid Input Example**
+## ❌ Invalid Input Example
 ```
-Copiar
-Editar
 Digite o primeiro parâmetro: 5
 Digite o segundo parâmetro: 3
 O primeiro parâmetro deve ser menor que o segundo
 ```
-#**Lessons Learned**
-✅ Reinforced understanding of exception handling.
-✅ Improved user input validation skills in Java.
-
+📚 Lessons Learned
+✔️ Reinforced understanding of exception handling.
+✔️ Improved user input validation skills in Java.
 ==================================================================================================
 📌 Contador Simples em Java com Tratamento de Exceções
 
