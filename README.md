@@ -30,7 +30,7 @@ O primeiro parâmetro deve ser menor que o segundo
 ##  Lessons Learned
 -  Reinforced understanding of exception handling.
 -  Improved user input validation skills in Java.
-==================================================================================================
+==============================================================================
 # 📌 Contador Simples em Java com Tratamento de Exceções
 
 Esse é um pequeno projeto em Java desenvolvido para o bootcamp da Bradesco. Ele pede ao usuário por duas entradas numéricas e conta de 1 até a diference entre os dois números escolhidos. O programa inclui tratamento de exceções para garantir que o primeiro número é sempre menor que o segundo.
